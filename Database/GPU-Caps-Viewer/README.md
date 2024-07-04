@@ -4,6 +4,11 @@ A collection of screenshots and reports from GPU Caps Viewer.
 
 Коллекция скриншотов и отчётов GPU Caps Viewer.
 
+URLs (2024-07-04):
+- https://www.geeks3d.com/softwares/
+- https://www.geeks3d.com/20240212/gpu-caps-viewer-1-63-released/
+- https://ozone3d.net/gpu_caps_viewer/
+
 ## Rules / Правила
 
 #### Example / Пример:
