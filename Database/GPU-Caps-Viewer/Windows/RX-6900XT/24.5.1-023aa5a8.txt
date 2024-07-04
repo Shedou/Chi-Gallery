@@ -1,0 +1,1255 @@
+===================================================
+GPU Caps Viewer v1.63.0.0 report
+https://geeks3d.com/gpushark/
+https://ozone3d.net/gpu_caps_viewer/
+https://geeks3d.com/discord/
+===================================================
+
+
+===================================[ System / CPU ]
+- CPU Name: AMD Ryzen 9 5950X 16-Core Processor            
+- CPU Core Speed: 3400 MHz
+- CPU logical cores: 32
+- Family: 15 - Model: 1 - Stepping: 2
+- Physical Memory Size: 32768 MB
+- Operating System: Windows 11 64-bit build 22631
+- PhysX Version: 9210713
+
+
+===================================[ Graphics Adapters / GPUs ]
+- Current Display Mode: 3840x2160 @ 120 Hz - 32 bpp
+- Num GPUs: 1
+
+- GPU 1
+  - Name: AMD Radeon RX 6900 XT
+  - GPU codename: Navi 21
+  - Device ID: 1002-73BF
+  - Subdevice ID: 1462-3952
+  - Revision ID:   C0
+  - Driver: AMD Software: Adrenalin Edition 24.5.1 (31.0.24033.1003)
+  - Bus Id: 10
+  - Shader cores: 5120
+  - Texture units: 320
+  - ROP units: 128
+  - TDP: 300W
+  - BIOS version: 020.001.000.060/113-V395TRIO-4OC (2021/03/28 21:37)
+  - Memory size: 16368MB
+  - Memory type: GDDR6
+  - Memory bus width: 0-bit
+
+
+===================================[ OpenGL GPU Capabilities ]
+- GL_VENDOR: ATI Technologies Inc.
+- GL_RENDERER: AMD Radeon RX 6900 XT
+- GL_VERSION: 4.6.0 Core Profile Context 24.5.1.240502
+- GL_SHADING_LANGUAGE_VERSION: 4.60
+- ARB Texture Units: 0
+- Vertex Shader Texture Units: 32
+- Pixel Shader Texture Units: 32
+- Geometry Shader Texture Units: 32
+- Max Texture Size: 16384x16384
+- Max Anisotropic Filtering Value: X16.0
+- Max Point Sprite Size: 8192.0
+- Max Dynamic Lights: 0
+- Max Viewport Size: 16384x16384
+- Max Vertex Uniform Components: 8000
+- Max Fragment Uniform Components: 8000
+- Max Geometry Uniform Components: 8000
+- Max Varying Float: 64
+- Max Vertex Bindable Uniforms: 36
+- Max Fragment Bindable Uniforms: 36
+- Max Geometry Bindable Uniforms: 36
+- Frame Buffer Objects (FBO) Support:[yes]
+- Multiple Render Targets / Max draw buffers: 8
+- Pixel Buffer Objects (PBO) Support:[yes]
+- S3TC Texture Compression Support:[yes]
+- ATI 3Dc Texture Compression Support:[no]
+- Texture Rectangle Support:[yes]
+- Floating Point Textures Support:[yes]
+- MSAA: 2X
+- MSAA: 4X
+- MSAA: 8X
+- OpenGL Extensions: 314 extensions (GL=291 and WGL=23)
+  - GL_AMD_blend_minmax_factor
+  - GL_AMD_conservative_depth
+  - GL_AMD_debug_output
+  - GL_AMD_depth_clamp_separate
+  - GL_AMD_gpu_shader_half_float
+  - GL_AMD_gpu_shader_int16
+  - GL_AMD_gpu_shader_int64
+  - GL_AMD_multi_draw_indirect
+  - GL_AMD_pinned_memory
+  - GL_AMD_query_buffer_object
+  - GL_AMD_sample_positions
+  - GL_AMD_seamless_cubemap_per_texture
+  - GL_AMD_shader_trinary_minmax
+  - GL_AMD_texture_cube_map_array
+  - GL_AMD_vertex_shader_layer
+  - GL_AMD_vertex_shader_viewport_index
+  - GL_ARB_ES2_compatibility
+  - GL_ARB_ES3_1_compatibility
+  - GL_ARB_ES3_2_compatibility
+  - GL_ARB_ES3_compatibility
+  - GL_ARB_arrays_of_arrays
+  - GL_ARB_base_instance
+  - GL_ARB_bindless_texture
+  - GL_ARB_blend_func_extended
+  - GL_ARB_buffer_storage
+  - GL_ARB_clear_buffer_object
+  - GL_ARB_clear_texture
+  - GL_ARB_clip_control
+  - GL_ARB_color_buffer_float
+  - GL_ARB_compressed_texture_pixel_storage
+  - GL_ARB_compute_shader
+  - GL_ARB_conditional_render_inverted
+  - GL_ARB_conservative_depth
+  - GL_ARB_copy_buffer
+  - GL_ARB_copy_image
+  - GL_ARB_cull_distance
+  - GL_ARB_debug_output
+  - GL_ARB_depth_buffer_float
+  - GL_ARB_depth_clamp
+  - GL_ARB_depth_texture
+  - GL_ARB_derivative_control
+  - GL_ARB_direct_state_access
+  - GL_ARB_draw_buffers
+  - GL_ARB_draw_buffers_blend
+  - GL_ARB_draw_elements_base_vertex
+  - GL_ARB_draw_indirect
+  - GL_ARB_draw_instanced
+  - GL_ARB_enhanced_layouts
+  - GL_ARB_explicit_attrib_location
+  - GL_ARB_explicit_uniform_location
+  - GL_ARB_fragment_coord_conventions
+  - GL_ARB_fragment_layer_viewport
+  - GL_ARB_fragment_program
+  - GL_ARB_fragment_program_shadow
+  - GL_ARB_fragment_shader
+  - GL_ARB_framebuffer_no_attachments
+  - GL_ARB_framebuffer_object
+  - GL_ARB_framebuffer_sRGB
+  - GL_ARB_geometry_shader4
+  - GL_ARB_get_program_binary
+  - GL_ARB_get_texture_sub_image
+  - GL_ARB_gl_spirv
+  - GL_ARB_gpu_shader5
+  - GL_ARB_gpu_shader_fp64
+  - GL_ARB_gpu_shader_int64
+  - GL_ARB_half_float_pixel
+  - GL_ARB_half_float_vertex
+  - GL_ARB_indirect_parameters
+  - GL_ARB_instanced_arrays
+  - GL_ARB_internalformat_query
+  - GL_ARB_internalformat_query2
+  - GL_ARB_invalidate_subdata
+  - GL_ARB_map_buffer_range
+  - GL_ARB_multi_bind
+  - GL_ARB_multi_draw_indirect
+  - GL_ARB_multisample
+  - GL_ARB_multitexture
+  - GL_ARB_occlusion_query
+  - GL_ARB_occlusion_query2
+  - GL_ARB_parallel_shader_compile
+  - GL_ARB_pipeline_statistics_query
+  - GL_ARB_pixel_buffer_object
+  - GL_ARB_point_parameters
+  - GL_ARB_point_sprite
+  - GL_ARB_polygon_offset_clamp
+  - GL_ARB_post_depth_coverage
+  - GL_ARB_program_interface_query
+  - GL_ARB_provoking_vertex
+  - GL_ARB_query_buffer_object
+  - GL_ARB_robustness
+  - GL_ARB_sample_locations
+  - GL_ARB_sample_shading
+  - GL_ARB_sampler_objects
+  - GL_ARB_seamless_cube_map
+  - GL_ARB_seamless_cubemap_per_texture
+  - GL_ARB_separate_shader_objects
+  - GL_ARB_shader_atomic_counter_ops
+  - GL_ARB_shader_atomic_counters
+  - GL_ARB_shader_ballot
+  - GL_ARB_shader_bit_encoding
+  - GL_ARB_shader_clock
+  - GL_ARB_shader_draw_parameters
+  - GL_ARB_shader_group_vote
+  - GL_ARB_shader_image_load_store
+  - GL_ARB_shader_image_size
+  - GL_ARB_shader_objects
+  - GL_ARB_shader_precision
+  - GL_ARB_shader_stencil_export
+  - GL_ARB_shader_storage_buffer_object
+  - GL_ARB_shader_subroutine
+  - GL_ARB_shader_texture_image_samples
+  - GL_ARB_shader_texture_lod
+  - GL_ARB_shader_viewport_layer_array
+  - GL_ARB_shading_language_100
+  - GL_ARB_shading_language_420pack
+  - GL_ARB_shading_language_packing
+  - GL_ARB_shadow
+  - GL_ARB_shadow_ambient
+  - GL_ARB_sparse_buffer
+  - GL_ARB_sparse_texture
+  - GL_ARB_spirv_extensions
+  - GL_ARB_stencil_texturing
+  - GL_ARB_sync
+  - GL_ARB_tessellation_shader
+  - GL_ARB_texture_barrier
+  - GL_ARB_texture_border_clamp
+  - GL_ARB_texture_buffer_object
+  - GL_ARB_texture_buffer_object_rgb32
+  - GL_ARB_texture_buffer_range
+  - GL_ARB_texture_compression
+  - GL_ARB_texture_compression_bptc
+  - GL_ARB_texture_compression_rgtc
+  - GL_ARB_texture_cube_map
+  - GL_ARB_texture_cube_map_array
+  - GL_ARB_texture_env_add
+  - GL_ARB_texture_env_combine
+  - GL_ARB_texture_env_crossbar
+  - GL_ARB_texture_env_dot3
+  - GL_ARB_texture_filter_anisotropic
+  - GL_ARB_texture_filter_minmax
+  - GL_ARB_texture_float
+  - GL_ARB_texture_gather
+  - GL_ARB_texture_mirror_clamp_to_edge
+  - GL_ARB_texture_mirrored_repeat
+  - GL_ARB_texture_multisample
+  - GL_ARB_texture_multisample_no_array
+  - GL_ARB_texture_non_power_of_two
+  - GL_ARB_texture_query_levels
+  - GL_ARB_texture_query_lod
+  - GL_ARB_texture_rectangle
+  - GL_ARB_texture_rg
+  - GL_ARB_texture_rgb10_a2ui
+  - GL_ARB_texture_stencil8
+  - GL_ARB_texture_storage
+  - GL_ARB_texture_storage_multisample
+  - GL_ARB_texture_swizzle
+  - GL_ARB_texture_view
+  - GL_ARB_timer_query
+  - GL_ARB_transform_feedback
+  - GL_ARB_transform_feedback2
+  - GL_ARB_transform_feedback3
+  - GL_ARB_transform_feedback_instanced
+  - GL_ARB_transform_feedback_overflow_query
+  - GL_ARB_transpose_matrix
+  - GL_ARB_uniform_buffer_object
+  - GL_ARB_vertex_array_bgra
+  - GL_ARB_vertex_array_object
+  - GL_ARB_vertex_attrib_64bit
+  - GL_ARB_vertex_attrib_binding
+  - GL_ARB_vertex_buffer_object
+  - GL_ARB_vertex_program
+  - GL_ARB_vertex_shader
+  - GL_ARB_vertex_type_10f_11f_11f_rev
+  - GL_ARB_vertex_type_2_10_10_10_rev
+  - GL_ARB_viewport_array
+  - GL_ARB_window_pos
+  - GL_ATI_draw_buffers
+  - GL_ATI_meminfo
+  - GL_ATI_separate_stencil
+  - GL_ATI_shader_texture_lod
+  - GL_ATI_texture_env_combine3
+  - GL_ATI_texture_float
+  - GL_ATI_texture_mirror_once
+  - GL_EXT_abgr
+  - GL_EXT_bgra
+  - GL_EXT_bindable_uniform
+  - GL_EXT_blend_color
+  - GL_EXT_blend_equation_separate
+  - GL_EXT_blend_func_separate
+  - GL_EXT_blend_minmax
+  - GL_EXT_blend_subtract
+  - GL_EXT_compiled_vertex_array
+  - GL_EXT_copy_buffer
+  - GL_EXT_copy_texture
+  - GL_EXT_debug_label
+  - GL_EXT_depth_bounds_test
+  - GL_EXT_direct_state_access
+  - GL_EXT_draw_buffers2
+  - GL_EXT_draw_instanced
+  - GL_EXT_draw_range_elements
+  - GL_EXT_fog_coord
+  - GL_EXT_framebuffer_blit
+  - GL_EXT_framebuffer_multisample
+  - GL_EXT_framebuffer_object
+  - GL_EXT_framebuffer_sRGB
+  - GL_EXT_geometry_shader4
+  - GL_EXT_gpu_program_parameters
+  - GL_EXT_gpu_shader4
+  - GL_EXT_memory_object
+  - GL_EXT_memory_object_win32
+  - GL_EXT_multi_draw_arrays
+  - GL_EXT_nonuniform_qualifier
+  - GL_EXT_packed_depth_stencil
+  - GL_EXT_packed_float
+  - GL_EXT_packed_pixels
+  - GL_EXT_pixel_buffer_object
+  - GL_EXT_point_parameters
+  - GL_EXT_polygon_offset_clamp
+  - GL_EXT_provoking_vertex
+  - GL_EXT_rescale_normal
+  - GL_EXT_secondary_color
+  - GL_EXT_semaphore
+  - GL_EXT_semaphore_win32
+  - GL_EXT_separate_specular_color
+  - GL_EXT_shader_image_load_store
+  - GL_EXT_shader_integer_mix
+  - GL_EXT_shadow_funcs
+  - GL_EXT_stencil_wrap
+  - GL_EXT_subtexture
+  - GL_EXT_texture
+  - GL_EXT_texture3D
+  - GL_EXT_texture_array
+  - GL_EXT_texture_buffer_object
+  - GL_EXT_texture_compression_bptc
+  - GL_EXT_texture_compression_latc
+  - GL_EXT_texture_compression_rgtc
+  - GL_EXT_texture_compression_s3tc
+  - GL_EXT_texture_cube_map
+  - GL_EXT_texture_edge_clamp
+  - GL_EXT_texture_env_add
+  - GL_EXT_texture_env_combine
+  - GL_EXT_texture_env_dot3
+  - GL_EXT_texture_filter_anisotropic
+  - GL_EXT_texture_integer
+  - GL_EXT_texture_lod
+  - GL_EXT_texture_lod_bias
+  - GL_EXT_texture_mirror_clamp
+  - GL_EXT_texture_object
+  - GL_EXT_texture_rectangle
+  - GL_EXT_texture_sRGB
+  - GL_EXT_texture_sRGB_R8
+  - GL_EXT_texture_sRGB_RG8
+  - GL_EXT_texture_sRGB_decode
+  - GL_EXT_texture_shared_exponent
+  - GL_EXT_texture_snorm
+  - GL_EXT_texture_storage
+  - GL_EXT_texture_swizzle
+  - GL_EXT_timer_query
+  - GL_EXT_transform_feedback
+  - GL_EXT_vertex_array
+  - GL_EXT_vertex_array_bgra
+  - GL_EXT_vertex_attrib_64bit
+  - GL_IBM_texture_mirrored_repeat
+  - GL_KHR_blend_equation_advanced
+  - GL_KHR_blend_equation_advanced_coherent
+  - GL_KHR_debug
+  - GL_KHR_no_error
+  - GL_KHR_parallel_shader_compile
+  - GL_KHR_robust_buffer_access_behavior
+  - GL_KHR_robustness
+  - GL_KHR_shader_subgroup
+  - GL_KHR_texture_compression_astc_ldr
+  - GL_NV_blend_square
+  - GL_NV_conditional_render
+  - GL_NV_copy_image
+  - GL_NV_depth_buffer_float
+  - GL_NV_float_buffer
+  - GL_NV_half_float
+  - GL_NV_primitive_restart
+  - GL_NV_shader_atomic_int64
+  - GL_NV_texgen_reflection
+  - GL_NV_texture_barrier
+  - GL_NV_timeline_semaphore
+  - GL_OES_EGL_image
+  - GL_OVR_multiview
+  - GL_OVR_multiview2
+  - GL_S3_s3tc
+  - GL_SGIS_generate_mipmap
+  - GL_SGIS_texture_edge_clamp
+  - GL_SGIS_texture_lod
+  - GL_SUN_multi_draw_arrays
+  - WGL_EXT_swap_control
+  - WGL_AMD_gpu_association
+  - WGL_ARB_buffer_region
+  - WGL_ARB_context_flush_control
+  - WGL_ARB_create_context
+  - WGL_ARB_create_context_no_error
+  - WGL_ARB_create_context_profile
+  - WGL_ARB_extensions_string
+  - WGL_ARB_framebuffer_sRGB
+  - WGL_ARB_make_current_read
+  - WGL_ARB_multisample
+  - WGL_ARB_pbuffer
+  - WGL_ARB_pixel_format
+  - WGL_ARB_pixel_format_float
+  - WGL_ARB_render_texture
+  - WGL_EXT_create_context_es_profile
+  - WGL_EXT_create_context_es2_profile
+  - WGL_EXT_extensions_string
+  - WGL_EXT_swap_control_tear
+  - WGL_I3D_genlock
+  - WGL_NV_DX_interop
+  - WGL_NV_DX_interop2
+  - WGL_NV_swap_group
+- OpenGL SPIR-V Extensions: 39
+  - SPV_KHR_shader_ballot
+  - SPV_KHR_subgroup_vote
+  - SPV_KHR_shader_draw_parameters
+  - SPV_KHR_16bit_storage
+  - SPV_KHR_storage_buffer_storage_class
+  - SPV_KHR_8bit_storage
+  - SPV_KHR_variable_pointers
+  - SPV_KHR_float_controls
+  - SPV_KHR_shader_clock
+  - SPV_KHR_vulkan_memory_model
+  - SPV_KHR_post_depth_coverage
+  - SPV_KHR_non_semantic_info
+  - SPV_KHR_physical_storage_buffer
+  - SPV_KHR_terminate_invocation
+  - SPV_KHR_FRAGMENT_SHADING_RATE
+  - SPV_KHR_workgroup_memory_explicit_layout
+  - SPV_KHR_fragment_shader_barycentric
+  - SPV_EXT_nonuniform_qualifier
+  - SPV_EXT_shader_stencil_export
+  - SPV_EXT_shader_viewport_index_layer
+  - SPV_EXT_demote_to_helper_invocation
+  - SPV_EXT_shader_image_atomic_int64
+  - SPV_AMD_shader_ballot
+  - SPV_AMD_shader_trinary_minmax
+  - SPV_AMD_shader_explicit_vertex_parameter
+  - SPV_AMD_gcn_shader
+  - SPV_AMD_gpu_shader_half_float
+  - SPV_AMD_texture_gather_bias_lod
+  - SPV_AMD_gpu_shader_int16
+  - SPV_AMD_shader_image_load_store_lod
+  - SPV_AMD_gpu_shader_half_float_fetch
+  - SPV_AMD_shader_early_and_late_fragment_tests
+  - SPV_ARB_shader_ballot
+  - SPV_GOOGLE_decorate_string
+  - SPV_GOOGLE_hlsl_functionality1
+  - SPV_GOOGLE_user_type
+  - SPV_KHR_cooperative_matrix
+  - SPV_NV_shader_atomic_float
+  - SPV_EXT_fragment_shader_interlock
+- OpenGL core capabilities: 179 caps listed
+  - GL_MAX_LIST_NESTING: 0
+  - GL_MAX_EVAL_ORDER: 0
+  - GL_MAX_LIGHTS: 0
+  - GL_MAX_CLIP_PLANES: 8
+  - GL_MAX_TEXTURE_SIZE: 16384
+  - GL_MAX_PIXEL_MAP_TABLE: 256
+  - GL_MAX_ATTRIB_STACK_DEPTH: 0
+  - GL_MAX_MODELVIEW_STACK_DEPTH: 0
+  - GL_MAX_NAME_STACK_DEPTH: 0
+  - GL_MAX_PROJECTION_STACK_DEPTH: 0
+  - GL_MAX_TEXTURE_STACK_DEPTH: 0
+  - GL_MAX_VIEWPORT_DIMS: 16384
+  - GL_MAX_CLIENT_ATTRIB_STACK_DEPTH: 0
+  - GL_MAX_3D_TEXTURE_SIZE: 8192
+  - GL_MAX_ELEMENTS_VERTICES: 536870911
+  - GL_MAX_ELEMENTS_INDICES: 536870911
+  - GL_MAX_TEXTURE_UNITS: 0
+  - GL_MAX_CUBE_MAP_TEXTURE_SIZE: 16384
+  - GL_MAX_TEXTURE_LOD_BIAS: 16
+  - GL_MAX_DRAW_BUFFERS: 8
+  - GL_MAX_VERTEX_ATTRIBS: 32
+  - GL_MAX_TEXTURE_COORDS: 0
+  - GL_MAX_TEXTURE_IMAGE_UNITS: 32
+  - GL_MAX_FRAGMENT_UNIFORM_COMPONENTS: 8000
+  - GL_MAX_VERTEX_UNIFORM_COMPONENTS: 8000
+  - GL_MAX_VARYING_FLOATS: 64
+  - GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS: 32
+  - GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 160
+  - GL_MAX_CLIP_DISTANCES: 8
+  - GL_MAX_ARRAY_TEXTURE_LAYERS: 8192
+  - GL_MAX_VARYING_COMPONENTS: 64
+  - GL_MIN_PROGRAM_TEXEL_OFFSET: -8
+  - GL_MAX_PROGRAM_TEXEL_OFFSET: 7
+  - GL_MAX_TRANSFORM_FEEDBACK_SEPARATE_COMPONENTS: 16
+  - GL_MAX_TRANSFORM_FEEDBACK_INTERLEAVED_COMPONENTS: 128
+  - GL_MAX_TRANSFORM_FEEDBACK_SEPARATE_ATTRIBS: 4
+  - GL_MAX_RENDERBUFFER_SIZE: 16384
+  - GL_MAX_COLOR_ATTACHMENTS: 8
+  - GL_MAX_SAMPLES: 8
+  - GL_MIN_PROGRAM_TEXEL_OFFSET_EXT: -8
+  - GL_MAX_PROGRAM_TEXEL_OFFSET_EXT: 7
+  - GL_RGBA_FLOAT_MODE_ARB: 0
+  - GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+  - GL_MAX_RENDERBUFFER_SIZE_EXT: 16384
+  - GL_MAX_SAMPLES_EXT: 8
+  - GL_RGBA_INTEGER_MODE_EXT: 0
+  - GL_MAX_ARRAY_TEXTURE_LAYERS_EXT: 8192
+  - GL_MAX_TRANSFORM_FEEDBACK_INTERLEAVED_COMPONENTS_EXT: 128
+  - GL_MAX_TRANSFORM_FEEDBACK_SEPARATE_ATTRIBS_EXT: 4
+  - GL_MAX_TRANSFORM_FEEDBACK_SEPARATE_COMPONENTS_EXT: 16
+  - GL_FRAMEBUFFER_SRGB_CAPABLE_EXT: 0
+  - GL_MAX_RECTANGLE_TEXTURE_SIZE: 16384
+  - GL_MAX_TEXTURE_BUFFER_SIZE: 268435455
+  - GL_MAX_TEXTURE_BUFFER_SIZE_ARB: 268435455
+  - GL_MAX_VERTEX_UNIFORM_BLOCKS: 36
+  - GL_MAX_GEOMETRY_UNIFORM_BLOCKS: 36
+  - GL_MAX_FRAGMENT_UNIFORM_BLOCKS: 36
+  - GL_MAX_COMBINED_UNIFORM_BLOCKS: 70
+  - GL_MAX_UNIFORM_BUFFER_BINDINGS: 84
+  - GL_MAX_UNIFORM_BLOCK_SIZE: 4194304
+  - GL_MAX_COMBINED_VERTEX_UNIFORM_COMPONENTS: 37756736
+  - GL_MAX_COMBINED_GEOMETRY_UNIFORM_COMPONENTS: 37756736
+  - GL_MAX_COMBINED_FRAGMENT_UNIFORM_COMPONENTS: 37756736
+  - GL_UNIFORM_BUFFER_OFFSET_ALIGNMENT: 16
+  - GL_MAX_GEOMETRY_TEXTURE_IMAGE_UNITS: 32
+  - GL_MAX_GEOMETRY_UNIFORM_COMPONENTS: 8000
+  - GL_MAX_GEOMETRY_OUTPUT_VERTICES: 1023
+  - GL_MAX_GEOMETRY_TOTAL_OUTPUT_COMPONENTS: 4095
+  - GL_MAX_VERTEX_OUTPUT_COMPONENTS: 128
+  - GL_MAX_GEOMETRY_INPUT_COMPONENTS: 128
+  - GL_MAX_GEOMETRY_OUTPUT_COMPONENTS: 128
+  - GL_MAX_FRAGMENT_INPUT_COMPONENTS: 128
+  - GL_MAX_SERVER_WAIT_TIMEOUT: 0
+  - GL_MAX_SAMPLE_MASK_WORDS: 1
+  - GL_MAX_COLOR_TEXTURE_SAMPLES: 8
+  - GL_MAX_DEPTH_TEXTURE_SAMPLES: 8
+  - GL_MAX_INTEGER_SAMPLES: 8
+  - GL_PROVOKING_VERTEX: 36430
+  - GL_QUADS_FOLLOW_PROVOKING_VERTEX_CONVENTION: 1
+  - GL_MAX_GEOMETRY_TEXTURE_IMAGE_UNITS_ARB: 32
+  - GL_MAX_GEOMETRY_VARYING_COMPONENTS_ARB: 128
+  - GL_MAX_VERTEX_VARYING_COMPONENTS_ARB: 128
+  - GL_MAX_GEOMETRY_UNIFORM_COMPONENTS_ARB: 8000
+  - GL_MAX_GEOMETRY_OUTPUT_VERTICES_ARB: 1023
+  - GL_MAX_GEOMETRY_TOTAL_OUTPUT_COMPONENTS_ARB: 4095
+  - GL_MAX_DUAL_SOURCE_DRAW_BUFFERS: 1
+  - GL_FRAGMENT_INTERPOLATION_OFFSET_BITS: 4
+  - GL_MIN_SAMPLE_SHADING_VALUE: 0
+  - GL_MAX_GEOMETRY_SHADER_INVOCATIONS: 126
+  - GL_MIN_FRAGMENT_INTERPOLATION_OFFSET: -8
+  - GL_MAX_FRAGMENT_INTERPOLATION_OFFSET: 7
+  - GL_MIN_PROGRAM_TEXTURE_GATHER_OFFSET: -8
+  - GL_MAX_PROGRAM_TEXTURE_GATHER_OFFSET: 7
+  - GL_MAX_PROGRAM_TEXTURE_GATHER_COMPONENTS: 16
+  - GL_MAX_SUBROUTINES: 256
+  - GL_MAX_SUBROUTINE_UNIFORM_LOCATIONS: 1024
+  - GL_MAX_PATCH_VERTICES: 32
+  - GL_MAX_TESS_GEN_LEVEL: 64
+  - GL_MAX_TESS_CONTROL_UNIFORM_COMPONENTS: 8000
+  - GL_MAX_TESS_EVALUATION_UNIFORM_COMPONENTS: 8000
+  - GL_MAX_TESS_CONTROL_TEXTURE_IMAGE_UNITS: 32
+  - GL_MAX_TESS_EVALUATION_TEXTURE_IMAGE_UNITS: 32
+  - GL_MAX_TESS_CONTROL_OUTPUT_COMPONENTS: 128
+  - GL_MAX_TESS_PATCH_COMPONENTS: 120
+  - GL_MAX_TESS_CONTROL_TOTAL_OUTPUT_COMPONENTS: 4096
+  - GL_MAX_TESS_EVALUATION_OUTPUT_COMPONENTS: 128
+  - GL_MAX_TESS_CONTROL_UNIFORM_BLOCKS: 36
+  - GL_MAX_TESS_EVALUATION_UNIFORM_BLOCKS: 36
+  - GL_MAX_TESS_CONTROL_INPUT_COMPONENTS: 128
+  - GL_MAX_TESS_EVALUATION_INPUT_COMPONENTS: 128
+  - GL_MAX_COMBINED_TESS_CONTROL_UNIFORM_COMPONENTS: 37756736
+  - GL_MAX_COMBINED_TESS_EVALUATION_UNIFORM_COMPONENTS: 37756736
+  - GL_MAX_TRANSFORM_FEEDBACK_BUFFERS: 4
+  - GL_MAX_VERTEX_STREAMS: 4
+  - GL_NUM_PROGRAM_BINARY_FORMATS: 1
+  - GL_MAX_VERTEX_UNIFORM_VECTORS: 2000
+  - GL_MAX_VARYING_VECTORS: 32
+  - GL_MAX_FRAGMENT_UNIFORM_VECTORS: 2000
+  - GL_MAX_VIEWPORTS: 16
+  - GL_MAX_TESS_CONTROL_ATOMIC_COUNTER_BUFFERS: 8
+  - GL_MAX_TESS_EVALUATION_ATOMIC_COUNTER_BUFFERS: 8
+  - GL_MAX_VERTEX_ATOMIC_COUNTER_BUFFERS: 8
+  - GL_MAX_GEOMETRY_ATOMIC_COUNTER_BUFFERS: 8
+  - GL_MAX_FRAGMENT_ATOMIC_COUNTER_BUFFERS: 8
+  - GL_MAX_COMBINED_ATOMIC_COUNTER_BUFFERS: 48
+  - GL_MAX_VERTEX_ATOMIC_COUNTERS: 16384
+  - GL_MAX_TESS_CONTROL_ATOMIC_COUNTERS: 16384
+  - GL_MAX_TESS_EVALUATION_ATOMIC_COUNTERS: 16384
+  - GL_MAX_GEOMETRY_ATOMIC_COUNTERS: 16384
+  - GL_MAX_FRAGMENT_ATOMIC_COUNTERS: 16384
+  - GL_MAX_COMBINED_ATOMIC_COUNTERS: 98304
+  - GL_MAX_ATOMIC_COUNTER_BUFFER_SIZE: 65536
+  - GL_MAX_ATOMIC_COUNTER_BUFFER_BINDINGS: 8
+  - GL_MAX_IMAGE_UNITS: 48
+  - GL_MAX_COMBINED_IMAGE_UNITS_AND_FRAGMENT_OUTPUTS: 152
+  - GL_MAX_IMAGE_SAMPLES: 8
+  - GL_MAX_VERTEX_IMAGE_UNIFORMS: 32
+  - GL_MAX_TESS_CONTROL_IMAGE_UNIFORMS: 32
+  - GL_MAX_TESS_EVALUATION_IMAGE_UNIFORMS: 32
+  - GL_MAX_GEOMETRY_IMAGE_UNIFORMS: 32
+  - GL_MAX_FRAGMENT_IMAGE_UNIFORMS: 32
+  - GL_MAX_COMBINED_IMAGE_UNIFORMS: 48
+  - GL_MIN_MAP_BUFFER_ALIGNMENT: 64
+  - GL_UNPACK_COMPRESSED_BLOCK_WIDTH: 0
+  - GL_UNPACK_COMPRESSED_BLOCK_HEIGHT: 0
+  - GL_UNPACK_COMPRESSED_BLOCK_DEPTH: 0
+  - GL_UNPACK_COMPRESSED_BLOCK_SIZE: 0
+  - GL_PACK_COMPRESSED_BLOCK_WIDTH: 0
+  - GL_PACK_COMPRESSED_BLOCK_HEIGHT: 0
+  - GL_PACK_COMPRESSED_BLOCK_DEPTH: 0
+  - GL_PACK_COMPRESSED_BLOCK_SIZE: 0
+  - GL_MAX_COMPUTE_UNIFORM_BLOCKS: 36
+  - GL_MAX_COMPUTE_TEXTURE_IMAGE_UNITS: 32
+  - GL_MAX_COMPUTE_IMAGE_UNIFORMS: 32
+  - GL_MAX_COMPUTE_SHARED_MEMORY_SIZE: 65536
+  - GL_MAX_COMPUTE_UNIFORM_COMPONENTS: 8000
+  - GL_MAX_COMPUTE_ATOMIC_COUNTER_BUFFERS: 8
+  - GL_MAX_COMPUTE_ATOMIC_COUNTERS: 16384
+  - GL_MAX_COMBINED_COMPUTE_UNIFORM_COMPONENTS: 37756736
+  - GL_MAX_COMPUTE_WORK_GROUP_INVOCATIONS: 1024
+  - GL_MAX_COMPUTE_WORK_GROUP_COUNT: 2147483647/65535/65535
+  - GL_MAX_COMPUTE_WORK_GROUP_SIZE: 1024/1024/1024
+  - GL_MAX_VERTEX_ATTRIB_RELATIVE_OFFSET: 2047
+  - GL_MAX_VERTEX_ATTRIB_BINDINGS: 2047
+  - GL_MAX_UNIFORM_LOCATIONS: 8000
+  - GL_MAX_FRAMEBUFFER_WIDTH: 16384
+  - GL_MAX_FRAMEBUFFER_HEIGHT: 16384
+  - GL_MAX_FRAMEBUFFER_LAYERS: 8192
+  - GL_MAX_FRAMEBUFFER_SAMPLES: 8
+  - GL_MAX_COMPUTE_VARIABLE_GROUP_INVOCATIONS_ARB: 0
+  - GL_MAX_COMPUTE_FIXED_GROUP_INVOCATIONS_ARB: 1024
+  - GL_MAX_COMPUTE_VARIABLE_GROUP_SIZE_ARB: 0
+  - GL_MAX_COMPUTE_FIXED_GROUP_SIZE_ARB: 0
+  - GL_MAX_SPARSE_TEXTURE_SIZE_ARB: 16384
+  - GL_MAX_SPARSE_3D_TEXTURE_SIZE_ARB: 8192
+  - GL_MAX_SPARSE_ARRAY_TEXTURE_LAYERS_ARB: 8192
+  - GL_SPARSE_TEXTURE_FULL_ARRAY_CUBE_MIPMAPS_ARB: 1
+  - GL_MAX_CULL_DISTANCES: 8
+  - GL_MAX_COMBINED_CLIP_AND_CULL_DISTANCES: 8
+- OpenGL extension capabilities: 158 caps listed
+  - GL_RGBA_FLOAT_MODE_ARB: 0 (GL_ARB_color_buffer_float)
+  - GL_MAX_COLOR_ATTACHMENTS_EXT: 8 (GL_EXT_framebuffer_object)
+  - GL_MAX_RENDERBUFFER_SIZE_EXT: 16384 (GL_EXT_framebuffer_object)
+  - GL_MAX_SAMPLES_EXT: 8 (GL_EXT_framebuffer_multisample)
+  - GL_RGBA_INTEGER_MODE_EXT: 0 (GL_EXT_texture_integer)
+  - GL_MAX_ARRAY_TEXTURE_LAYERS_EXT: 8192 (GL_EXT_texture_array)
+  - GL_MAX_TRANSFORM_FEEDBACK_INTERLEAVED_COMPONENTS_EXT: 128 (GL_EXT_transform_feedback)
+  - GL_MAX_TRANSFORM_FEEDBACK_SEPARATE_ATTRIBS_EXT: 4 (GL_EXT_transform_feedback)
+  - GL_MAX_TRANSFORM_FEEDBACK_SEPARATE_COMPONENTS_EXT: 16 (GL_EXT_transform_feedback)
+  - GL_FRAMEBUFFER_SRGB_CAPABLE_EXT: 0 (GL_EXT_framebuffer_sRGB)
+  - GL_MAX_TEXTURE_BUFFER_SIZE_ARB: 268435455 (GL_ARB_texture_buffer_object)
+  - GL_MAX_VERTEX_UNIFORM_BLOCKS: 36 (GL_ARB_uniform_buffer_object)
+  - GL_MAX_GEOMETRY_UNIFORM_BLOCKS: 36 (GL_ARB_uniform_buffer_object)
+  - GL_MAX_FRAGMENT_UNIFORM_BLOCKS: 36 (GL_ARB_uniform_buffer_object)
+  - GL_MAX_COMBINED_UNIFORM_BLOCKS: 70 (GL_ARB_uniform_buffer_object)
+  - GL_MAX_UNIFORM_BUFFER_BINDINGS: 84 (GL_ARB_uniform_buffer_object)
+  - GL_MAX_UNIFORM_BLOCK_SIZE: 4194304 (GL_ARB_uniform_buffer_object)
+  - GL_MAX_COMBINED_VERTEX_UNIFORM_COMPONENTS: 37756736 (GL_ARB_uniform_buffer_object)
+  - GL_MAX_COMBINED_GEOMETRY_UNIFORM_COMPONENTS: 37756736 (GL_ARB_uniform_buffer_object)
+  - GL_MAX_COMBINED_FRAGMENT_UNIFORM_COMPONENTS: 37756736 (GL_ARB_uniform_buffer_object)
+  - GL_UNIFORM_BUFFER_OFFSET_ALIGNMENT: 16 (GL_ARB_uniform_buffer_object)
+  - GL_MAX_RECTANGLE_TEXTURE_SIZE: 16384 (GL_ARB_texture_rectangle)
+  - GL_PROVOKING_VERTEX: 36430 (GL_ARB_provoking_vertex)
+  - GL_QUADS_FOLLOW_PROVOKING_VERTEX_CONVENTION: 1 (GL_ARB_provoking_vertex)
+  - GL_MAX_SAMPLE_MASK_WORDS: 1 (GL_ARB_texture_multisample)
+  - GL_MAX_COLOR_TEXTURE_SAMPLES: 8 (GL_ARB_texture_multisample)
+  - GL_MAX_DEPTH_TEXTURE_SAMPLES: 8 (GL_ARB_texture_multisample)
+  - GL_MAX_INTEGER_SAMPLES: 8 (GL_ARB_texture_multisample)
+  - GL_MAX_GEOMETRY_TEXTURE_IMAGE_UNITS_ARB: 32 (GL_ARB_geometry_shader4)
+  - GL_MAX_GEOMETRY_VARYING_COMPONENTS_ARB: 128 (GL_ARB_geometry_shader4)
+  - GL_MAX_VERTEX_VARYING_COMPONENTS_ARB: 128 (GL_ARB_geometry_shader4)
+  - GL_MAX_GEOMETRY_UNIFORM_COMPONENTS_ARB: 8000 (GL_ARB_geometry_shader4)
+  - GL_MAX_GEOMETRY_OUTPUT_VERTICES_ARB: 1023 (GL_ARB_geometry_shader4)
+  - GL_MAX_GEOMETRY_TOTAL_OUTPUT_COMPONENTS_ARB: 4095 (GL_ARB_geometry_shader4)
+  - GL_MAX_SERVER_WAIT_TIMEOUT: 0 (GL_ARB_sync)
+  - GL_MAX_DUAL_SOURCE_DRAW_BUFFERS: 1 (GL_ARB_blend_func_extended)
+  - GL_MAX_GEOMETRY_SHADER_INVOCATIONS: 126 (GL_ARB_gpu_shader5)
+  - GL_MIN_FRAGMENT_INTERPOLATION_OFFSET: -8 (GL_ARB_gpu_shader5)
+  - GL_MAX_FRAGMENT_INTERPOLATION_OFFSET: 7 (GL_ARB_gpu_shader5)
+  - GL_FRAGMENT_INTERPOLATION_OFFSET_BITS: 4 (GL_ARB_gpu_shader5)
+  - GL_MAX_VERTEX_STREAMS: 4 (GL_ARB_gpu_shader5)
+  - GL_MIN_SAMPLE_SHADING_VALUE: 0 (GL_ARB_sample_shading)
+  - GL_MAX_SUBROUTINES: 256 (GL_ARB_shader_subroutine)
+  - GL_MAX_SUBROUTINE_UNIFORM_LOCATIONS: 1024 (GL_ARB_shader_subroutine)
+  - GL_MAX_TESS_CONTROL_TEXTURE_IMAGE_UNITS: 32 (GL_ARB_tessellation_shader)
+  - GL_MAX_TESS_EVALUATION_TEXTURE_IMAGE_UNITS: 32 (GL_ARB_tessellation_shader)
+  - GL_MAX_TESS_GEN_LEVEL: 64 (GL_ARB_tessellation_shader)
+  - GL_MAX_TESS_CONTROL_UNIFORM_COMPONENTS: 8000 (GL_ARB_tessellation_shader)
+  - GL_MAX_TESS_EVALUATION_UNIFORM_COMPONENTS: 8000 (GL_ARB_tessellation_shader)
+  - GL_MAX_TESS_CONTROL_INPUT_COMPONENTS: 128 (GL_ARB_tessellation_shader)
+  - GL_MAX_TESS_EVALUATION_INPUT_COMPONENTS: 128 (GL_ARB_tessellation_shader)
+  - GL_MAX_COMBINED_TESS_CONTROL_UNIFORM_COMPONENTS: 37756736 (GL_ARB_tessellation_shader)
+  - GL_MAX_COMBINED_TESS_EVALUATION_UNIFORM_COMPONENTS: 37756736 (GL_ARB_tessellation_shader)
+  - GL_MAX_PATCH_VERTICES: 32 (GL_ARB_tessellation_shader)
+  - GL_MAX_TESS_CONTROL_OUTPUT_COMPONENTS: 128 (GL_ARB_tessellation_shader)
+  - GL_MAX_TESS_PATCH_COMPONENTS: 120 (GL_ARB_tessellation_shader)
+  - GL_MAX_TESS_CONTROL_TOTAL_OUTPUT_COMPONENTS: 4096 (GL_ARB_tessellation_shader)
+  - GL_MAX_TESS_EVALUATION_OUTPUT_COMPONENTS: 128 (GL_ARB_tessellation_shader)
+  - GL_MAX_TESS_CONTROL_UNIFORM_BLOCKS: 36 (GL_ARB_tessellation_shader)
+  - GL_MAX_TESS_EVALUATION_UNIFORM_BLOCKS: 36 (GL_ARB_tessellation_shader)
+  - GL_MIN_PROGRAM_TEXTURE_GATHER_OFFSET: -8 (GL_ARB_texture_gather)
+  - GL_MAX_PROGRAM_TEXTURE_GATHER_OFFSET: 7 (GL_ARB_texture_gather)
+  - GL_MAX_PROGRAM_TEXTURE_GATHER_COMPONENTS: 16 (GL_ARB_texture_gather)
+  - GL_MAX_TRANSFORM_FEEDBACK_BUFFERS: 4 (GL_ARB_transform_feedback3)
+  - GL_NUM_PROGRAM_BINARY_FORMATS: 1 (GL_ARB_get_program_binary)
+  - GL_MAX_VIEWPORTS: 16 (GL_ARB_viewport_array)
+  - GL_UNPACK_COMPRESSED_BLOCK_WIDTH: 0 (GL_ARB_compressed_texture_pixel_storage)
+  - GL_UNPACK_COMPRESSED_BLOCK_HEIGHT: 0 (GL_ARB_compressed_texture_pixel_storage)
+  - GL_UNPACK_COMPRESSED_BLOCK_DEPTH: 0 (GL_ARB_compressed_texture_pixel_storage)
+  - GL_UNPACK_COMPRESSED_BLOCK_SIZE: 0 (GL_ARB_compressed_texture_pixel_storage)
+  - GL_PACK_COMPRESSED_BLOCK_WIDTH: 0 (GL_ARB_compressed_texture_pixel_storage)
+  - GL_PACK_COMPRESSED_BLOCK_HEIGHT: 0 (GL_ARB_compressed_texture_pixel_storage)
+  - GL_PACK_COMPRESSED_BLOCK_DEPTH: 0 (GL_ARB_compressed_texture_pixel_storage)
+  - GL_PACK_COMPRESSED_BLOCK_SIZE: 0 (GL_ARB_compressed_texture_pixel_storage)
+  - GL_MAX_VERTEX_ATOMIC_COUNTER_BUFFERS: 8 (GL_ARB_shader_atomic_counters)
+  - GL_MAX_TESS_CONTROL_ATOMIC_COUNTER_BUFFERS: 8 (GL_ARB_shader_atomic_counters)
+  - GL_MAX_TESS_EVALUATION_ATOMIC_COUNTER_BUFFERS: 8 (GL_ARB_shader_atomic_counters)
+  - GL_MAX_GEOMETRY_ATOMIC_COUNTER_BUFFERS: 8 (GL_ARB_shader_atomic_counters)
+  - GL_MAX_FRAGMENT_ATOMIC_COUNTER_BUFFERS: 8 (GL_ARB_shader_atomic_counters)
+  - GL_MAX_COMBINED_ATOMIC_COUNTER_BUFFERS: 48 (GL_ARB_shader_atomic_counters)
+  - GL_MAX_VERTEX_ATOMIC_COUNTERS: 16384 (GL_ARB_shader_atomic_counters)
+  - GL_MAX_TESS_CONTROL_ATOMIC_COUNTERS: 16384 (GL_ARB_shader_atomic_counters)
+  - GL_MAX_TESS_EVALUATION_ATOMIC_COUNTERS: 16384 (GL_ARB_shader_atomic_counters)
+  - GL_MAX_GEOMETRY_ATOMIC_COUNTERS: 16384 (GL_ARB_shader_atomic_counters)
+  - GL_MAX_FRAGMENT_ATOMIC_COUNTERS: 16384 (GL_ARB_shader_atomic_counters)
+  - GL_MAX_COMBINED_ATOMIC_COUNTERS: 98304 (GL_ARB_shader_atomic_counters)
+  - GL_MAX_ATOMIC_COUNTER_BUFFER_SIZE: 65536 (GL_ARB_shader_atomic_counters)
+  - GL_MAX_ATOMIC_COUNTER_BUFFER_BINDINGS: 8 (GL_ARB_shader_atomic_counters)
+  - GL_MAX_IMAGE_UNITS: 48 (GL_ARB_shader_image_load_store)
+  - GL_MAX_COMBINED_IMAGE_UNITS_AND_FRAGMENT_OUTPUTS: 152 (GL_ARB_shader_image_load_store)
+  - GL_MAX_IMAGE_SAMPLES: 8 (GL_ARB_shader_image_load_store)
+  - GL_MAX_VERTEX_IMAGE_UNIFORMS: 32 (GL_ARB_shader_image_load_store)
+  - GL_MAX_TESS_CONTROL_IMAGE_UNIFORMS: 32 (GL_ARB_shader_image_load_store)
+  - GL_MAX_TESS_EVALUATION_IMAGE_UNIFORMS: 32 (GL_ARB_shader_image_load_store)
+  - GL_MAX_GEOMETRY_IMAGE_UNIFORMS: 32 (GL_ARB_shader_image_load_store)
+  - GL_MAX_FRAGMENT_IMAGE_UNIFORMS: 32 (GL_ARB_shader_image_load_store)
+  - GL_MAX_COMBINED_IMAGE_UNIFORMS: 48 (GL_ARB_shader_image_load_store)
+  - GL_MAX_COMPUTE_UNIFORM_BLOCKS: 36 (GL_ARB_compute_shader)
+  - GL_MAX_COMPUTE_TEXTURE_IMAGE_UNITS: 32 (GL_ARB_compute_shader)
+  - GL_MAX_COMPUTE_IMAGE_UNIFORMS: 32 (GL_ARB_compute_shader)
+  - GL_MAX_COMPUTE_SHARED_MEMORY_SIZE: 65536 (GL_ARB_compute_shader)
+  - GL_MAX_COMPUTE_UNIFORM_COMPONENTS: 8000 (GL_ARB_compute_shader)
+  - GL_MAX_COMPUTE_ATOMIC_COUNTER_BUFFERS: 8 (GL_ARB_compute_shader)
+  - GL_MAX_COMPUTE_ATOMIC_COUNTERS: 16384 (GL_ARB_compute_shader)
+  - GL_MAX_COMBINED_COMPUTE_UNIFORM_COMPONENTS: 37756736 (GL_ARB_compute_shader)
+  - GL_MAX_COMPUTE_WORK_GROUP_INVOCATIONS: 1024 (GL_ARB_compute_shader)
+  - GL_MAX_COMPUTE_WORK_GROUP_COUNT: 2147483647/65535/65535 (GL_ARB_compute_shader)
+  - GL_MAX_COMPUTE_WORK_GROUP_SIZE: 1024/1024/1024 (GL_ARB_compute_shader)
+  - GL_MAX_VERTEX_ATTRIB_RELATIVE_OFFSET: 2047 (GL_ARB_vertex_attrib_binding)
+  - GL_MAX_VERTEX_ATTRIB_BINDINGS: 2047 (GL_ARB_vertex_attrib_binding)
+  - GL_MAX_UNIFORM_LOCATIONS: 8000 (GL_ARB_explicit_uniform_location)
+  - GL_MAX_FRAMEBUFFER_WIDTH: 16384 (GL_ARB_framebuffer_no_attachments)
+  - GL_MAX_FRAMEBUFFER_HEIGHT: 16384 (GL_ARB_framebuffer_no_attachments)
+  - GL_MAX_FRAMEBUFFER_LAYERS: 8192 (GL_ARB_framebuffer_no_attachments)
+  - GL_MAX_FRAMEBUFFER_SAMPLES: 8 (GL_ARB_framebuffer_no_attachments)
+  - GL_MIN_PROGRAM_TEXEL_OFFSET_EXT: -8 (GL_EXT_gpu_shader4)
+  - GL_MAX_PROGRAM_TEXEL_OFFSET_EXT: 7 (GL_EXT_gpu_shader4)
+  - GL_MAX_TEXTURE_UNITS_ARB: 0 (GL_ARB_multitexture)
+  - GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS_ARB: 32 (GL_ARB_multitexture)
+  - GL_MAX_TEXTURE_IMAGE_UNITS_ARB: 32 (GL_ARB_multitexture)
+  - GL_MAX_CUBE_MAP_TEXTURE_SIZE_ARB: 16384 (GL_ARB_texture_cube_map)
+  - GL_NUM_COMPRESSED_TEXTURE_FORMATS: 33 (GL_ARB_texture_compression)
+  - GL_MAX_TEXTURE_MAX_ANISOTROPY_EXT: 16.000000 (GL_EXT_texture_filter_anisotropic)
+  - GL_MAX_VERTEX_UNIFORM_COMPONENTS: 8000 (GL_ARB_vertex_shader)
+  - GL_MAX_VARYING_FLOATS: 64 (GL_ARB_vertex_shader)
+  - GL_MAX_VERTEX_ATTRIBS: 32 (GL_ARB_vertex_shader)
+  - GL_MAX_TEXTURE_IMAGE_UNITS: 32 (GL_ARB_vertex_shader)
+  - GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS: 32 (GL_ARB_vertex_shader)
+  - GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 160 (GL_ARB_vertex_shader)
+  - GL_MAX_TEXTURE_COORDS: 0 (GL_ARB_vertex_shader)
+  - GL_MAX_FRAGMENT_UNIFORM_COMPONENTS_ARB: 8000 (GL_ARB_fragment_shader)
+  - GL_MAX_VERTEX_ATTRIBS_ARB: 32 (GL_ARB_vertex_program)
+  - GL_MAX_PROGRAM_MATRICES_ARB: 0 (GL_ARB_vertex_program)
+  - GL_MAX_PROGRAM_MATRIX_STACK_DEPTH_ARB: 0 (GL_ARB_vertex_program)
+  - GL_MAX_TEXTURE_COORDS_ARB: 0 (GL_ARB_fragment_program)
+  - GL_MAX_FRAGMENT_UNIFORM_COMPONENTS: 8000 (GL_ARB_shading_language_100)
+  - GL_MAX_GEOMETRY_UNIFORM_COMPONENTS_EXT: 8000 (GL_ARB_shading_language_100)
+  - GL_MAX_DRAW_BUFFERS_ARB: 8 (GL_ARB_draw_buffers)
+  - GL_MAX_COLOR_ATTACHMENTS: 8 (GL_ARB_framebuffer_object)
+  - GL_MAX_RENDERBUFFER_SIZE: 16384 (GL_ARB_framebuffer_object)
+  - GL_MAX_SAMPLES: 8 (GL_ARB_framebuffer_object)
+  - GL_POINT_SIZE_MIN_ARB: 0.000000 (GL_ARB_point_parameters)
+  - GL_POINT_SIZE_MAX_ARB: 8192.000000 (GL_ARB_point_parameters)
+  - GL_MAX_VERTEX_UNIFORM_VECTORS: 2000 (GL_ARB_ES2_compatibility)
+  - GL_MAX_VARYING_VECTORS: 32 (GL_ARB_ES2_compatibility)
+  - GL_MAX_FRAGMENT_UNIFORM_VECTORS: 2000 (GL_ARB_ES2_compatibility)
+  - GL_MAX_DEBUG_MESSAGE_LENGTH: 2560 (GL_ARB_debug_output)
+  - GL_MAX_DEBUG_LOGGED_MESSAGES_ARB: 10 (GL_ARB_debug_output)
+  - GL_MAX_DEBUG_MESSAGE_LENGTH_AMD: 2560 (GL_AMD_debug_output)
+  - GL_MAX_DEBUG_LOGGED_MESSAGES_AMD: 10 (GL_AMD_debug_output)
+  - GL_MAX_VERTEX_BINDABLE_UNIFORMS_EXT: 36 (GL_EXT_bindable_uniform)
+  - GL_MAX_FRAGMENT_BINDABLE_UNIFORMS_EXT: 36 (GL_EXT_bindable_uniform)
+  - GL_MAX_GEOMETRY_BINDABLE_UNIFORMS_EXT: 36 (GL_EXT_bindable_uniform)
+  - GL_MAX_BINDABLE_UNIFORM_SIZE_EXT: 4194304 (GL_EXT_bindable_uniform)
+  - GL_MAX_GEOMETRY_TEXTURE_IMAGE_UNITS_EXT: 32 (GL_EXT_geometry_shader4)
+  - GL_MAX_GEOMETRY_OUTPUT_VERTICES_EXT: 1023 (GL_EXT_geometry_shader4)
+  - GL_MAX_TEXTURE_BUFFER_SIZE_EXT: 268435455 (GL_EXT_texture_buffer_object)
+
+
+===================================[ Vulkan Capabilities ]
+- Instance extensions: 13
+  - VK_KHR_device_group_creation (version: 1)
+  - VK_KHR_external_fence_capabilities (version: 1)
+  - VK_KHR_external_memory_capabilities (version: 1)
+  - VK_KHR_external_semaphore_capabilities (version: 1)
+  - VK_KHR_get_physical_device_properties2 (version: 2)
+  - VK_KHR_get_surface_capabilities2 (version: 1)
+  - VK_KHR_surface (version: 25)
+  - VK_KHR_win32_surface (version: 6)
+  - VK_EXT_debug_report (version: 10)
+  - VK_EXT_debug_utils (version: 2)
+  - VK_EXT_swapchain_colorspace (version: 4)
+  - VK_KHR_portability_enumeration (version: 1)
+  - VK_LUNARG_direct_driver_loading (version: 1)
+- Instance layers: 3
+  - VK_LAYER_AMD_switchable_graphics (version: 1.3.277, impl: 1)
+  - VK_LAYER_VALVE_steam_overlay (version: 1.3.207, impl: 1)
+  - VK_LAYER_VALVE_steam_fossilize (version: 1.3.207, impl: 1)
+- Physical devices: 1
+  - [Vulkan device 0]: AMD Radeon RX 6900 XT ------------------
+    - API version: 1.3.277
+    - vendorID: 4098
+    - deviceID: 29631
+    - driver version: 8388907
+  - memory heap count: 2
+    - heap1: 16081MB
+    - heap2: 16368MB
+  - memory type count: 16
+    - mem type 0 - heap index : 1 - property flag : 1
+      > mem property: VK_MEMORY_PROPERTY_DEVICE_LOCAL_BIT
+    - mem type 1 - heap index : 0 - property flag : 6
+      > mem property: VK_MEMORY_PROPERTY_HOST_VISIBLE_BIT
+      > mem property: VK_MEMORY_PROPERTY_HOST_COHERENT_BIT
+    - mem type 2 - heap index : 1 - property flag : 7
+      > mem property: VK_MEMORY_PROPERTY_DEVICE_LOCAL_BIT
+      > mem property: VK_MEMORY_PROPERTY_HOST_VISIBLE_BIT
+      > mem property: VK_MEMORY_PROPERTY_HOST_COHERENT_BIT
+    - mem type 3 - heap index : 0 - property flag : 14
+      > mem property: VK_MEMORY_PROPERTY_HOST_VISIBLE_BIT
+      > mem property: VK_MEMORY_PROPERTY_HOST_COHERENT_BIT
+      > mem property: VK_MEMORY_PROPERTY_HOST_CACHED_BIT
+    - mem type 4 - heap index : 1 - property flag : 193
+      > mem property: VK_MEMORY_PROPERTY_DEVICE_LOCAL_BIT
+    - mem type 5 - heap index : 0 - property flag : 198
+      > mem property: VK_MEMORY_PROPERTY_HOST_VISIBLE_BIT
+      > mem property: VK_MEMORY_PROPERTY_HOST_COHERENT_BIT
+    - mem type 6 - heap index : 1 - property flag : 199
+      > mem property: VK_MEMORY_PROPERTY_DEVICE_LOCAL_BIT
+      > mem property: VK_MEMORY_PROPERTY_HOST_VISIBLE_BIT
+      > mem property: VK_MEMORY_PROPERTY_HOST_COHERENT_BIT
+    - mem type 7 - heap index : 0 - property flag : 206
+      > mem property: VK_MEMORY_PROPERTY_HOST_VISIBLE_BIT
+      > mem property: VK_MEMORY_PROPERTY_HOST_COHERENT_BIT
+      > mem property: VK_MEMORY_PROPERTY_HOST_CACHED_BIT
+    - mem type 8 - heap index : 1 - property flag : 1
+      > mem property: VK_MEMORY_PROPERTY_DEVICE_LOCAL_BIT
+    - mem type 9 - heap index : 0 - property flag : 6
+      > mem property: VK_MEMORY_PROPERTY_HOST_VISIBLE_BIT
+      > mem property: VK_MEMORY_PROPERTY_HOST_COHERENT_BIT
+    - mem type 10 - heap index : 1 - property flag : 7
+      > mem property: VK_MEMORY_PROPERTY_DEVICE_LOCAL_BIT
+      > mem property: VK_MEMORY_PROPERTY_HOST_VISIBLE_BIT
+      > mem property: VK_MEMORY_PROPERTY_HOST_COHERENT_BIT
+    - mem type 11 - heap index : 0 - property flag : 14
+      > mem property: VK_MEMORY_PROPERTY_HOST_VISIBLE_BIT
+      > mem property: VK_MEMORY_PROPERTY_HOST_COHERENT_BIT
+      > mem property: VK_MEMORY_PROPERTY_HOST_CACHED_BIT
+    - mem type 12 - heap index : 1 - property flag : 193
+      > mem property: VK_MEMORY_PROPERTY_DEVICE_LOCAL_BIT
+    - mem type 13 - heap index : 0 - property flag : 198
+      > mem property: VK_MEMORY_PROPERTY_HOST_VISIBLE_BIT
+      > mem property: VK_MEMORY_PROPERTY_HOST_COHERENT_BIT
+    - mem type 14 - heap index : 1 - property flag : 199
+      > mem property: VK_MEMORY_PROPERTY_DEVICE_LOCAL_BIT
+      > mem property: VK_MEMORY_PROPERTY_HOST_VISIBLE_BIT
+      > mem property: VK_MEMORY_PROPERTY_HOST_COHERENT_BIT
+    - mem type 15 - heap index : 0 - property flag : 206
+      > mem property: VK_MEMORY_PROPERTY_HOST_VISIBLE_BIT
+      > mem property: VK_MEMORY_PROPERTY_HOST_COHERENT_BIT
+      > mem property: VK_MEMORY_PROPERTY_HOST_CACHED_BIT
+  - extensions: 173
+    - VK_KHR_16bit_storage (version: 1)
+    - VK_KHR_8bit_storage (version: 1)
+    - VK_KHR_bind_memory2 (version: 1)
+    - VK_KHR_buffer_device_address (version: 1)
+    - VK_KHR_calibrated_timestamps (version: 1)
+    - VK_KHR_copy_commands2 (version: 1)
+    - VK_KHR_create_renderpass2 (version: 1)
+    - VK_KHR_dedicated_allocation (version: 3)
+    - VK_KHR_depth_stencil_resolve (version: 1)
+    - VK_KHR_descriptor_update_template (version: 1)
+    - VK_KHR_device_group (version: 4)
+    - VK_KHR_draw_indirect_count (version: 1)
+    - VK_KHR_driver_properties (version: 1)
+    - VK_KHR_dynamic_rendering (version: 1)
+    - VK_KHR_dynamic_rendering_local_read (version: 1)
+    - VK_KHR_external_fence (version: 1)
+    - VK_KHR_external_fence_win32 (version: 1)
+    - VK_KHR_external_memory (version: 1)
+    - VK_KHR_external_memory_win32 (version: 1)
+    - VK_KHR_external_semaphore (version: 1)
+    - VK_KHR_external_semaphore_win32 (version: 1)
+    - VK_KHR_format_feature_flags2 (version: 2)
+    - VK_KHR_fragment_shader_barycentric (version: 1)
+    - VK_KHR_fragment_shading_rate (version: 2)
+    - VK_KHR_get_memory_requirements2 (version: 1)
+    - VK_KHR_global_priority (version: 1)
+    - VK_KHR_imageless_framebuffer (version: 1)
+    - VK_KHR_image_format_list (version: 1)
+    - VK_KHR_index_type_uint8 (version: 1)
+    - VK_KHR_line_rasterization (version: 1)
+    - VK_KHR_load_store_op_none (version: 1)
+    - VK_KHR_maintenance1 (version: 2)
+    - VK_KHR_maintenance2 (version: 1)
+    - VK_KHR_maintenance3 (version: 1)
+    - VK_KHR_maintenance4 (version: 2)
+    - VK_KHR_maintenance5 (version: 1)
+    - VK_KHR_maintenance6 (version: 1)
+    - VK_KHR_map_memory2 (version: 1)
+    - VK_KHR_multiview (version: 1)
+    - VK_KHR_pipeline_executable_properties (version: 1)
+    - VK_KHR_pipeline_library (version: 1)
+    - VK_KHR_push_descriptor (version: 2)
+    - VK_KHR_relaxed_block_layout (version: 1)
+    - VK_KHR_sampler_mirror_clamp_to_edge (version: 3)
+    - VK_KHR_sampler_ycbcr_conversion (version: 14)
+    - VK_KHR_separate_depth_stencil_layouts (version: 1)
+    - VK_KHR_shader_atomic_int64 (version: 1)
+    - VK_KHR_shader_clock (version: 1)
+    - VK_KHR_shader_draw_parameters (version: 1)
+    - VK_KHR_shader_expect_assume (version: 1)
+    - VK_KHR_shader_float16_int8 (version: 1)
+    - VK_KHR_shader_float_controls (version: 4)
+    - VK_KHR_shader_float_controls2 (version: 1)
+    - VK_KHR_shader_integer_dot_product (version: 1)
+    - VK_KHR_shader_maximal_reconvergence (version: 1)
+    - VK_KHR_shader_non_semantic_info (version: 1)
+    - VK_KHR_shader_quad_control (version: 1)
+    - VK_KHR_shader_subgroup_extended_types (version: 1)
+    - VK_KHR_shader_subgroup_rotate (version: 2)
+    - VK_KHR_shader_subgroup_uniform_control_flow (version: 1)
+    - VK_KHR_shader_terminate_invocation (version: 1)
+    - VK_KHR_spirv_1_4 (version: 1)
+    - VK_KHR_storage_buffer_storage_class (version: 1)
+    - VK_KHR_swapchain (version: 70)
+    - VK_KHR_swapchain_mutable_format (version: 1)
+    - VK_KHR_synchronization2 (version: 1)
+    - VK_KHR_timeline_semaphore (version: 2)
+    - VK_KHR_uniform_buffer_standard_layout (version: 1)
+    - VK_KHR_variable_pointers (version: 1)
+    - VK_KHR_vertex_attribute_divisor (version: 1)
+    - VK_KHR_video_decode_h264 (version: 9)
+    - VK_KHR_video_decode_h265 (version: 8)
+    - VK_KHR_video_decode_queue (version: 8)
+    - VK_KHR_video_queue (version: 8)
+    - VK_KHR_vulkan_memory_model (version: 3)
+    - VK_KHR_win32_keyed_mutex (version: 1)
+    - VK_KHR_workgroup_memory_explicit_layout (version: 1)
+    - VK_KHR_zero_initialize_workgroup_memory (version: 1)
+    - VK_EXT_4444_formats (version: 1)
+    - VK_EXT_attachment_feedback_loop_layout (version: 2)
+    - VK_EXT_border_color_swizzle (version: 1)
+    - VK_EXT_calibrated_timestamps (version: 2)
+    - VK_EXT_color_write_enable (version: 1)
+    - VK_EXT_conditional_rendering (version: 2)
+    - VK_EXT_conservative_rasterization (version: 1)
+    - VK_EXT_custom_border_color (version: 12)
+    - VK_EXT_depth_clamp_zero_one (version: 1)
+    - VK_EXT_depth_clip_control (version: 1)
+    - VK_EXT_depth_clip_enable (version: 1)
+    - VK_EXT_depth_range_unrestricted (version: 1)
+    - VK_EXT_descriptor_buffer (version: 1)
+    - VK_EXT_descriptor_indexing (version: 2)
+    - VK_EXT_device_address_binding_report (version: 1)
+    - VK_EXT_device_fault (version: 2)
+    - VK_EXT_dynamic_rendering_unused_attachments (version: 1)
+    - VK_EXT_extended_dynamic_state (version: 1)
+    - VK_EXT_extended_dynamic_state2 (version: 1)
+    - VK_EXT_extended_dynamic_state3 (version: 2)
+    - VK_EXT_external_memory_host (version: 1)
+    - VK_EXT_frame_boundary (version: 1)
+    - VK_EXT_full_screen_exclusive (version: 4)
+    - VK_EXT_global_priority (version: 2)
+    - VK_EXT_global_priority_query (version: 1)
+    - VK_EXT_graphics_pipeline_library (version: 1)
+    - VK_EXT_hdr_metadata (version: 2)
+    - VK_EXT_host_query_reset (version: 1)
+    - VK_EXT_image_robustness (version: 1)
+    - VK_EXT_image_sliced_view_of_3d (version: 1)
+    - VK_EXT_image_view_min_lod (version: 1)
+    - VK_EXT_index_type_uint8 (version: 1)
+    - VK_EXT_inline_uniform_block (version: 1)
+    - VK_EXT_line_rasterization (version: 1)
+    - VK_EXT_load_store_op_none (version: 1)
+    - VK_EXT_memory_budget (version: 1)
+    - VK_EXT_memory_priority (version: 1)
+    - VK_EXT_mesh_shader (version: 1)
+    - VK_EXT_mutable_descriptor_type (version: 1)
+    - VK_EXT_nested_command_buffer (version: 1)
+    - VK_EXT_non_seamless_cube_map (version: 1)
+    - VK_EXT_pageable_device_local_memory (version: 1)
+    - VK_EXT_pipeline_creation_cache_control (version: 3)
+    - VK_EXT_pipeline_creation_feedback (version: 1)
+    - VK_EXT_post_depth_coverage (version: 1)
+    - VK_EXT_primitive_topology_list_restart (version: 1)
+    - VK_EXT_private_data (version: 1)
+    - VK_EXT_provoking_vertex (version: 1)
+    - VK_EXT_queue_family_foreign (version: 1)
+    - VK_EXT_robustness2 (version: 1)
+    - VK_EXT_sampler_filter_minmax (version: 2)
+    - VK_EXT_sample_locations (version: 1)
+    - VK_EXT_scalar_block_layout (version: 1)
+    - VK_EXT_separate_stencil_usage (version: 1)
+    - VK_EXT_shader_atomic_float (version: 1)
+    - VK_EXT_shader_atomic_float2 (version: 1)
+    - VK_EXT_shader_demote_to_helper_invocation (version: 1)
+    - VK_EXT_shader_image_atomic_int64 (version: 1)
+    - VK_EXT_shader_module_identifier (version: 1)
+    - VK_EXT_shader_stencil_export (version: 1)
+    - VK_EXT_shader_subgroup_ballot (version: 1)
+    - VK_EXT_shader_subgroup_vote (version: 1)
+    - VK_EXT_shader_viewport_index_layer (version: 1)
+    - VK_EXT_subgroup_size_control (version: 2)
+    - VK_EXT_texel_buffer_alignment (version: 1)
+    - VK_EXT_tooling_info (version: 1)
+    - VK_EXT_transform_feedback (version: 1)
+    - VK_EXT_vertex_attribute_divisor (version: 3)
+    - VK_EXT_vertex_input_dynamic_state (version: 2)
+    - VK_EXT_ycbcr_image_arrays (version: 1)
+    - VK_AMD_buffer_marker (version: 1)
+    - VK_AMD_calibrated_timestamps (version: 1)
+    - VK_AMD_device_coherent_memory (version: 1)
+    - VK_AMD_display_native_hdr (version: 1)
+    - VK_AMD_draw_indirect_count (version: 2)
+    - VK_AMD_gcn_shader (version: 1)
+    - VK_AMD_gpa_interface (version: 1)
+    - VK_AMD_gpu_shader_half_float (version: 2)
+    - VK_AMD_gpu_shader_int16 (version: 2)
+    - VK_AMD_memory_overallocation_behavior (version: 1)
+    - VK_AMD_mixed_attachment_samples (version: 1)
+    - VK_AMD_shader_ballot (version: 1)
+    - VK_AMD_shader_core_properties (version: 2)
+    - VK_AMD_shader_core_properties2 (version: 1)
+    - VK_AMD_shader_early_and_late_fragment_tests (version: 1)
+    - VK_AMD_shader_explicit_vertex_parameter (version: 1)
+    - VK_AMD_shader_fragment_mask (version: 1)
+    - VK_AMD_shader_image_load_store_lod (version: 1)
+    - VK_AMD_shader_info (version: 1)
+    - VK_AMD_shader_trinary_minmax (version: 1)
+    - VK_AMD_texture_gather_bias_lod (version: 1)
+    - VK_GOOGLE_decorate_string (version: 1)
+    - VK_GOOGLE_hlsl_functionality1 (version: 1)
+    - VK_GOOGLE_user_type (version: 1)
+    - VK_VALVE_mutable_descriptor_type (version: 1)
+  - device layers: 1
+    - VK_LAYER_AMD_switchable_graphics (version: 1.3.277, impl: 1)
+  - device features:
+    - robustBufferAccess: true
+    - fullDrawIndexUint32: true
+    - imageCubeArray: true
+    - independentBlend: true
+    - geometryShader: true
+    - tessellationShader: true
+    - sampleRateShading: true
+    - dualSrcBlend: true
+    - logicOp: true
+    - multiDrawIndirect: true
+    - drawIndirectFirstInstance: true
+    - depthClamp: true
+    - depthBiasClamp: true
+    - fillModeNonSolid: true
+    - depthBounds: true
+    - wideLines: true
+    - largePoints: true
+    - alphaToOne: false
+    - multiViewport: true
+    - samplerAnisotropy: true
+    - textureCompressionETC2: false
+    - textureCompressionASTC_LDR: false
+    - textureCompressionBC: true
+    - occlusionQueryPrecise: true
+    - pipelineStatisticsQuery: true
+    - vertexPipelineStoresAndAtomics: true
+    - fragmentStoresAndAtomics: true
+    - shaderTessellationAndGeometryPointSize: true
+    - shaderImageGatherExtended: true
+    - shaderStorageImageExtendedFormats: true
+    - shaderStorageImageMultisample: true
+    - shaderStorageImageReadWithoutFormat: true
+    - shaderStorageImageWriteWithoutFormat: true
+    - shaderUniformBufferArrayDynamicIndexing: true
+    - shaderSampledImageArrayDynamicIndexing: true
+    - shaderStorageBufferArrayDynamicIndexing: true
+    - shaderStorageImageArrayDynamicIndexing: true
+    - shaderClipDistance: true
+    - shaderCullDistance: true
+    - shaderFloat64: true
+    - shaderInt64: true
+    - shaderInt16: true
+    - shaderResourceResidency: true
+    - shaderResourceMinLod: true
+    - sparseBinding: true
+    - sparseResidencyBuffer: true
+    - sparseResidencyImage2D: true
+    - sparseResidencyImage3D: true
+    - sparseResidency2Samples: false
+    - sparseResidency4Samples: true
+    - sparseResidency8Samples: false
+    - sparseResidency16Samples: false
+    - sparseResidencyAliased: true
+    - variableMultisampleRate: true
+    - inheritedQueries: true
+  - device limits
+    - maxImageDimension1D: 16384
+    - maxImageDimension2D: 16384
+    - maxImageDimension3D: 8192
+    - maxImageDimensionCube: 16384
+    - maxImageArrayLayers: 8192
+    - maxTexelBufferElements: 4294967295
+    - maxUniformBufferRange: 4294967295
+    - maxStorageBufferRange: 4294967295
+    - maxPushConstantsSize: 128
+    - maxMemoryAllocationCount: 4294967295
+    - maxSamplerAllocationCount: 1048576
+    - bufferImageGranularity: 1
+    - sparseAddressSpaceSize: 140707423584256
+    - maxBoundDescriptorSets: 32
+    - maxPerStageDescriptorSamplers: 4294967295
+    - maxPerStageDescriptorUniformBuffers: 4294967295
+    - maxPerStageDescriptorSampledImages: 4294967295
+    - maxPerStageDescriptorStorageImages: 4294967295
+    - maxPerStageDescriptorInputAttachments: 4294967295
+    - maxPerStageResources: 4294967295
+    - maxDescriptorSetSamplers: 4294967295
+    - maxDescriptorSetUniformBuffers: 4294967295
+    - maxDescriptorSetUniformBuffersDynamic: 8
+    - maxDescriptorSetStorageBuffers: 4294967295
+    - maxDescriptorSetStorageBuffersDynamic: 8
+    - maxDescriptorSetSampledImages: 4294967295
+    - maxDescriptorSetStorageImages: 4294967295
+    - maxDescriptorSetInputAttachments: 4294967295
+    - maxVertexInputAttributes: 64
+    - maxVertexInputBindings: 32
+    - maxVertexInputAttributeOffset: 4294967295
+    - maxVertexInputBindingStride: 16383
+    - maxVertexOutputComponents: 128
+    - maxTessellationGenerationLevel: 64
+    - maxTessellationPatchSize: 32
+    - maxTessellationControlPerVertexInputComponents: 128
+    - maxTessellationControlPerVertexOutputComponents: 128
+    - maxTessellationControlPerPatchOutputComponents: 120
+    - maxTessellationControlTotalOutputComponents: 4096
+    - maxTessellationEvaluationInputComponents: 128
+    - maxTessellationEvaluationOutputComponents: 128
+    - maxGeometryShaderInvocations: 126
+    - maxGeometryInputComponents: 128
+    - maxGeometryOutputComponents: 128
+    - maxGeometryOutputVertices: 1023
+    - maxGeometryTotalOutputComponents: 4095
+    - maxFragmentInputComponents: 128
+    - maxFragmentOutputAttachments: 8
+    - maxFragmentDualSrcAttachments: 1
+    - maxFragmentCombinedOutputResources: 4294967295
+    - maxComputeSharedMemorySize: 32768
+    - maxComputeWorkGroupCount: [4294967295; 65535; 65535]
+    - maxComputeWorkGroupInvocations: 1024
+    - maxComputeWorkGroupSize: [1024; 1024; 1024]
+    - subPixelPrecisionBits: 8
+    - subTexelPrecisionBits: 8
+    - mipmapPrecisionBits: 8
+    - maxDrawIndexedIndexValue: 4294967295
+    - maxDrawIndirectCount: 4294967295
+    - maxSamplerLodBias: 15.996094
+    - maxSamplerAnisotropy: 16.000000
+    - maxViewports: 16
+    - maxViewportDimensions: [16384; 16384]
+    - viewportBoundsRange: [-32768.000000 ; 32767.000000]
+    - viewportSubPixelBits: 8
+    - minMemoryMapAlignment: 64
+    - minTexelBufferOffsetAlignment: 4
+    - minUniformBufferOffsetAlignment: 16
+    - minStorageBufferOffsetAlignment: 4
+    - minTexelOffset: 4294967232
+    - maxTexelOffset: 63
+    - minTexelGatherOffset: 4294967264
+    - maxTexelGatherOffset: 31
+    - minInterpolationOffset: -2.000000
+    - maxInterpolationOffset: 1.000000
+    - subPixelInterpolationOffsetBits: 8
+    - maxFramebufferWidth: 16384
+    - maxFramebufferHeight: 16384
+    - maxFramebufferLayers: 8192
+    - framebufferColorSampleCounts: 15
+    - framebufferDepthSampleCounts: 15
+    - framebufferStencilSampleCounts: 15
+    - framebufferNoAttachmentsSampleCounts: 15
+    - maxColorAttachments: 8
+    - sampledImageColorSampleCounts: 15
+    - sampledImageIntegerSampleCounts: 15
+    - sampledImageDepthSampleCounts: 15
+    - sampledImageStencilSampleCounts: 15
+    - storageImageSampleCounts: 15
+    - maxSampleMaskWords: 1
+    - timestampComputeAndGraphics: 1
+    - timestampPeriod: 10.000000
+    - maxClipDistances: 8
+    - maxCullDistances: 8
+    - maxCombinedClipAndCullDistances: 8
+    - discreteQueuePriorities: 2
+    - pointSizeRange: [0.000000 ; 8191.875000]
+    - lineWidthRange: [1.000000 ; 8191.875000]
+    - pointSizeGranularity: 0.125000
+    - lineWidthGranularity: 0.125000
+    - strictLines: 0
+    - standardSampleLocations: 1
+    - optimalBufferCopyOffsetAlignment: 1
+    - optimalBufferCopyRowPitchAlignment: 1
+    - nonCoherentAtomSize: 128
+
+
+===================================[ OpenCL Capabilities ]
+- Num OpenCL platforms: 1
+- CL_PLATFORM_NAME: AMD Accelerated Parallel Processing
+- CL_PLATFORM_VENDOR: Advanced Micro Devices, Inc.
+- CL_PLATFORM_VERSION: OpenCL 2.1 AMD-APP (3608.0)
+- CL_PLATFORM_PROFILE: FULL_PROFILE
+- Num devices: 1
+
+  - CL_DEVICE_NAME: gfx1030
+  - CL_DEVICE_VENDOR: Advanced Micro Devices, Inc.
+  - CL_DRIVER_VERSION: 3608.0 (PAL,LC)
+  - CL_DEVICE_PROFILE: FULL_PROFILE
+  - CL_DEVICE_VERSION: OpenCL 1.2 AMD-APP (3608.0)
+  - CL_DEVICE_TYPE: GPU
+  - CL_DEVICE_VENDOR_ID: 0x1002
+  - CL_DEVICE_MAX_COMPUTE_UNITS: 40
+  - CL_DEVICE_MAX_CLOCK_FREQUENCY: 2105MHz
+  - CL_DEVICE_ADDRESS_BITS: 64
+  - CL_DEVICE_MAX_MEM_ALLOC_SIZE: 3145728KB
+  - CL_DEVICE_GLOBAL_MEM_SIZE: 3072MB
+  - CL_DEVICE_MAX_PARAMETER_SIZE: 1024
+  - CL_DEVICE_GLOBAL_MEM_CACHELINE_SIZE: 64 Bytes
+  - CL_DEVICE_GLOBAL_MEM_CACHE_SIZE: 16KB
+  - CL_DEVICE_ERROR_CORRECTION_SUPPORT: NO
+  - CL_DEVICE_LOCAL_MEM_TYPE: Local (scratchpad)
+  - CL_DEVICE_LOCAL_MEM_SIZE: 64KB
+  - CL_DEVICE_MAX_CONSTANT_BUFFER_SIZE: 3145728KB
+  - CL_DEVICE_MAX_WORK_ITEM_DIMENSIONS: 3
+  - CL_DEVICE_MAX_WORK_ITEM_SIZES: [1024 ; 1024 ; 1024]
+  - CL_DEVICE_MAX_WORK_GROUP_SIZE: 256
+  - CL_EXEC_NATIVE_KERNEL: 6092044
+  - CL_DEVICE_IMAGE_SUPPORT: YES
+  - CL_DEVICE_MAX_READ_IMAGE_ARGS: 128
+  - CL_DEVICE_MAX_WRITE_IMAGE_ARGS: 8
+  - CL_DEVICE_IMAGE2D_MAX_WIDTH: 16384
+  - CL_DEVICE_IMAGE2D_MAX_HEIGHT: 16384
+  - CL_DEVICE_IMAGE3D_MAX_WIDTH: 2048
+  - CL_DEVICE_IMAGE3D_MAX_HEIGHT: 2048
+  - CL_DEVICE_IMAGE3D_MAX_DEPTH: 2048
+  - CL_DEVICE_MAX_SAMPLERS: 16
+  - CL_DEVICE_PREFERRED_VECTOR_WIDTH_CHAR: 4
+  - CL_DEVICE_PREFERRED_VECTOR_WIDTH_SHORT: 2
+  - CL_DEVICE_PREFERRED_VECTOR_WIDTH_INT: 1
+  - CL_DEVICE_PREFERRED_VECTOR_WIDTH_LONG: 1
+  - CL_DEVICE_PREFERRED_VECTOR_WIDTH_FLOAT: 1
+  - CL_DEVICE_PREFERRED_VECTOR_WIDTH_DOUBLE: 1
+  - CL_DEVICE_EXTENSIONS: 20
+  - Extensions:
+    - cl_khr_fp64
+    - cl_khr_global_int32_base_atomics
+    - cl_khr_global_int32_extended_atomics
+    - cl_khr_local_int32_base_atomics
+    - cl_khr_local_int32_extended_atomics
+    - cl_khr_int64_base_atomics
+    - cl_khr_int64_extended_atomics
+    - cl_khr_3d_image_writes
+    - cl_khr_byte_addressable_store
+    - cl_khr_fp16
+    - cl_khr_gl_sharing
+    - cl_amd_device_attribute_query
+    - cl_amd_media_ops
+    - cl_amd_media_ops2
+    - cl_khr_d3d10_sharing
+    - cl_khr_d3d11_sharing
+    - cl_khr_dx9_media_sharing
+    - cl_khr_image2d_from_buffer
+    - cl_khr_gl_event
+    - cl_amd_copy_buffer_p2p
