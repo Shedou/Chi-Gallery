@@ -18,7 +18,7 @@ A collection of screenshots and reports from GPU Caps Viewer.
 > `PLATFORM/GPU_NAMES/MAINNAME.xml`
 
 - **PLATFORM** - `Windows / Linux`
-- **GPU_NAME** - `RX-560, RX-6900XT, GTX-1070...`
+- **GPU_NAME** - `RX-560, RX-6900-XT, GTX-1070...`
 - **GPU_NAMES** - `MultiGPU-GPU_NAME--GPU_NAME--GPU_NAME...`
 - **MAINNAME** - `DriverVersion-CRC32-OtherInfo`
 - - CRC32 = `Hash of the report file "MAINNAME.txt", or hash of the screenshot "MAINNAME.jpg" if there is no text report.`
