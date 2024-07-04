@@ -23,7 +23,7 @@ A collection of screenshots and reports from GPU Caps Viewer.
 - **MAINNAME** - `DriverVersion-CRC32-OtherInfo`
 - - CRC32 = `Hash of the report file "MAINNAME.txt", or hash of the screenshot "MAINNAME.jpg" if there is no text report.`
 - - CRC32 = `Хэш файла отчёта "MAINNAME.txt", или хэш скриншота "MAINNAME.jpg" если нет текстового отчёта.`
-- **GPU_NUMBER** - Adapter number (1, 2, 3, etc.) / Номер адаптера (1, 2, 3 и т.д.)
+- **GPU_NUMBER** - `Adapter number (1, 2, 3, etc.) / Номер адаптера (1, 2, 3 и т.д.)`
 
 ### Additional screenshots / Дополнительные скриншоты
 
