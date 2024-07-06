@@ -14,7 +14,7 @@ If you do not want to prepare screenshots yourself, you can leave them in a spec
 
 Если вы не желаете самостоятельно подготавливать скриншоты, можете оставлять их в специальной теме для скриншотов GPU-Z:
 
-URL: https://github.com/Shedou/Chi-Gallery/discussions/2
+URL: [Database - GPU-Z - Screenshoots](https://github.com/Shedou/Chi-Gallery/discussions/2)
 
 JPEG screenshots must be converted to WebP format with quality 30-50 units.\
 GIF screenshots must be converted to PNG format.
