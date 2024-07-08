@@ -1,8 +1,8 @@
 # Chi-Gallery - Database (GPU-Z)
 
-A collection of screenshots and reports from GPU-Z.
+A collection of screenshots from GPU-Z.
 
-Коллекция скриншотов и отчётов GPU-Z.
+Коллекция скриншотов GPU-Z.
 
 URL (2024-07-06):
 - https://www.techpowerup.com/download/techpowerup-gpu-z
