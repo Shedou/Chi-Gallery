@@ -1,0 +1,25 @@
+GPU Caps Viewer
+Graphics Card Information Utility
+GPU Capabilities Viewer & OpenGL, OpenCL and Vulkan API Support
+Copyright (C) 2007-2024 JeGX/Geeks3D, All rights reserved.
+https://www.geeks3d.com
+Discord server: https://www.geeks3d.com/discord/
+
+GPU Caps Viewer is a freeware video card information utility that quickly describes 
+the essential capabilities of your graphics card/GPU including GPU type, amount of 
+VRAM , OpenGL, Vulkan, OpenCL and CUDA API support level, OpenGL API extensions database 
+and general system configuration, as well as a GPU-Stress-Test functionality (GPU-Burner).
+
+GPU Caps Viewer uses the ZoomGPU engine to retrieve graphics card data. 
+More information about ZoomGPU: http://www.ozone3d.net/zoomgpu/
+
+GPU Caps Viewer uses the GeeXLab simplified SDK for OpenGL, Vulkan and 
+Direct3D 12 demos in the 3D Demos panel. 
+More information about GeeXLab SDK: https://www.geeks3d.com/geexlab/pro/
+You can contact me at jegx@geeks3d.com for more details about GeeXLab SDK.
+
+Other GPU tools by the same author
+-> https://www.geeks3d.com/softwares/
+
+Enjoy!
+.:JeGX:.
