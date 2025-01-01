@@ -11,4 +11,4 @@ else
 	else echo "Exe file not found ($Command), abort."; read pause; exit 1; fi
 fi
 
-wine "$Command"
+wine "$Command" "$@"
