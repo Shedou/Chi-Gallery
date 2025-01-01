@@ -3,5 +3,5 @@
 
 export __GLX_VENDOR_LIBRARY_NAME=intel
 
-wine GPU_Caps_Viewer.exe
-read pause
+Path_To_Script="$( dirname "$(readlink -f "$0")")"
+"$Path_To_Script/start.sh"
