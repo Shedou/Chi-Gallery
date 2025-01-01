@@ -3,7 +3,7 @@
 
 Path_To_Script="$( dirname "$(readlink -f "$0")")"
 
-chmod +x "$Path_To_Script/file.sh"
+chmod -R +x "$Path_To_Script"
 
 echo -e "\n Done."
 read pause
