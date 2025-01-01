@@ -5,6 +5,7 @@
 Path_To_Script="$( dirname "$(readlink -f "$0")")"
 Args="/demo_win_width=1280 /demo_win_height=720 /benchmark_log_results /benchmark_duration=10000 /demo_msaa=0"
 
+# Not used test: gl43_nv_shader_thread_group
 TestList=(
 VK_MeshShader__________="$Args /run_gxl_demo=vk2_mesh_shader"
 VK_DrawStressTest______="$Args /run_gxl_demo=vk2_draw_stress_test"
