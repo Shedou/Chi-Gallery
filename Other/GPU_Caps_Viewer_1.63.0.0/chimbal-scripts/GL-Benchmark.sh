@@ -24,4 +24,5 @@ GL2_Simple_Torus="$ParamsString /start_demo_gl2_simple_torus"
 
 for i in "${!TestList[@]}"; do "$Path_To_Script/start.sh" "${TestList[$i]}"; done
 
+echo -e "\n\n ---- COMPLETE ----"
 read pause

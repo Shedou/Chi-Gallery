@@ -1,5 +1,7 @@
 echo off
 
+cd ..
+
 call GPU_Caps_Viewer.exe /demo_win_width=1280 /demo_win_height=720 /benchmark_log_results /benchmark_duration=10000 /demo_msaa=0 /run_gxl_demo=vk2_mesh_shader
 call GPU_Caps_Viewer.exe /demo_win_width=1280 /demo_win_height=720 /benchmark_log_results /benchmark_duration=10000 /demo_msaa=0 /run_gxl_demo=vk2_draw_stress_test
 call GPU_Caps_Viewer.exe /demo_win_width=1280 /demo_win_height=720 /benchmark_log_results /benchmark_duration=10000 /demo_msaa=0 /run_gxl_demo=vk2_tessellation
@@ -9,7 +11,6 @@ call GPU_Caps_Viewer.exe /demo_win_width=1280 /demo_win_height=720 /benchmark_lo
 call GPU_Caps_Viewer.exe /demo_win_width=1280 /demo_win_height=720 /benchmark_log_results /benchmark_duration=10000 /demo_msaa=0 /run_gxl_demo=vk2_shadertoy_seascape
 call GPU_Caps_Viewer.exe /demo_win_width=1280 /demo_win_height=720 /benchmark_log_results /benchmark_duration=10000 /demo_msaa=0 /run_gxl_demo=gl46_spirv
 call GPU_Caps_Viewer.exe /demo_win_width=1280 /demo_win_height=720 /benchmark_log_results /benchmark_duration=10000 /demo_msaa=0 /run_gxl_demo=gl43_compte_shaders
-call GPU_Caps_Viewer.exe /demo_win_width=1280 /demo_win_height=720 /benchmark_log_results /benchmark_duration=10000 /demo_msaa=0 /run_gxl_demo=gl43_nv_shader_thread_group
 call GPU_Caps_Viewer.exe /demo_win_width=1280 /demo_win_height=720 /benchmark_log_results /benchmark_duration=10000 /demo_msaa=0 /run_gxl_demo=gl43_arb_shader_atomic_counters
 call GPU_Caps_Viewer.exe /demo_win_width=1280 /demo_win_height=720 /benchmark_log_results /benchmark_duration=10000 /demo_msaa=0 /run_gxl_demo=gl40_tessellation_v3
 call GPU_Caps_Viewer.exe /demo_win_width=1280 /demo_win_height=720 /benchmark_log_results /benchmark_duration=10000 /demo_msaa=0 /run_gxl_demo=gl40_tessellation_v1
