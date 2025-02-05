@@ -31,7 +31,7 @@ GIF screenshots must be converted to PNG format.
 - **MAINNAME** - `GPUCodeName*-SubVendor-Memory(MB)-CRC32-OtherInfo`
 - - CRC32 = `Hash of the screenshot "MAINNAME.jpg".`
 - - CRC32 = `Хэш скриншота "MAINNAME.jpg".`
-- - `* - NVIDIA = GPU Code Name (GK208, GP104, etc.), AMD and others = Shader Cores (1024sp, 896sp, etc.)`
+- - `* - NVIDIA = GPU Code Name (GK208, GP104, etc.), AMD and others = GPU Code Name and Shader Cores (Polaris21-1024sp, Polaris21-896sp, etc.)`
 
 
 ### Additional screenshots / Дополнительные скриншоты
