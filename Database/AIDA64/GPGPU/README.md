@@ -16,8 +16,8 @@ Screenshots must be converted to WebP format with quality 25-50 units.\
 - **MODE** - `CPU-GPU / CPU-Only / GPU-Only`
 - **VENDOR** - `AMD, Intel, NVIDIA, Mixed, Other...`
 - **MAINNAME** - `CPUName*-_-GPUName**-_-CRC32-OtherInfo`
-- - CRC32 = `Hash of the screenshot "MAINNAME.jpg".`
-- - CRC32 = `Хэш скриншота "MAINNAME.jpg".`
+- - CRC32 = `Hash of the screenshot "MAINNAME.webp".`
+- - CRC32 = `Хэш скриншота "MAINNAME.webp".`
 - - `* - CPU-Name (Codename) or PartNumber`
 - - `** - GPU-Name or Code-Name`
 - - `*** - LGA1200, AM4, PCI-E, PCI, AGP, Integrated...`
