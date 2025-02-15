@@ -6,9 +6,9 @@ A collection of screenshots from AIDA64 GPGPU.
 
 ## Rules / Правила
 
-Screenshots must be converted to WebP format with quality 25-50 units.\
+Screenshots must be converted to WebP format with quality 25 units.\
 
-Скриншоты должны быть преобразованы в формат WebP с качеством 25-50 единиц.\
+Скриншоты должны быть преобразованы в формат WebP с качеством 25 единиц.\
 
 > `PLATFORM/MODE/VENDOR/SOCKET***/MAINNAME.webp`
 
