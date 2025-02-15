@@ -15,7 +15,8 @@ Screenshots must be converted to WebP format with quality 35 units.\
 - **PLATFORM** - `Windows / Linux / Trial`
 - **VENDOR** - `AMD, Intel, Other...`
 - **SOCKET** - `LGA1200, AM4...`
-- **MAINNAME** - `CPUName*-_-CRC32-OtherInfo`
+- **MAINNAME** - `CPUName*-_-SC-_-CRC32-OtherInfo`
+- - SC = `Single Channel (SC), Dual Channel (DC), Tripple Channel (TC), Quad Channel (QC)...`
 - - CRC32 = `Hash of the screenshot "MAINNAME.webp".`
 - - CRC32 = `Хэш скриншота "MAINNAME.webp".`
 - - `* - CPU-Name (Codename) or PartNumber`
